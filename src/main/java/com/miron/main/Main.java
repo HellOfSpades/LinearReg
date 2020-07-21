@@ -6,6 +6,9 @@ import org.apache.commons.math.linear.RealMatrix;
 import java.util.Scanner;
 
 public class Main {
+
+    //This comment is here to simulate a change for the git commit, nothing else
+
     //final variables
     static final int length = 300;
     static final int parametersNum = 1;
